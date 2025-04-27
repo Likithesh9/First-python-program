@@ -1,0 +1,7 @@
+name= input("what is your name? ")
+age= input("what is your age? ")
+hobby= input("what is your hobby? ")
+career= input("what is your dream career? ")
+print(f"Hi {name}! nice to meet you!")
+print(f"your hobby is {hobby}.")
+print(f"your dream career is to become {career}.")
